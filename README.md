@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me 😄
+
+I am a engineer for detecting issues and analyzing root cause and resovling issues and root cause.
 
 <!--
 **prefity/prefity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
